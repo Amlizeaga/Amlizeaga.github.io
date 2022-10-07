@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: Amlizeaga.github.io/ezcrackzone.html
+target: amlizeaga.github.io/ezcrackzone.html
 ---
