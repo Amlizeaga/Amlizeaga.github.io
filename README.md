@@ -1,2 +1,4 @@
-# Amlizeaga.github.io
-go to https://Amlizeaga.github.io/ezcrackzone.html
+---
+layout: forward
+target: https://Amlizeaga.github.io/ezcrackzone.html
+---
